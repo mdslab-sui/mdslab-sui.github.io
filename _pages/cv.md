@@ -21,7 +21,8 @@ Work experience
   * Guangdong University of Technology
   *
 <!-- 你看不到我看不到我 -->
-<!-- * Summer 2015: Research Assistant
+<!-- 
+* Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
