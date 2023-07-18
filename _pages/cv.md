@@ -65,4 +65,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 广东省生物医学工程学会植入器械与先进制造分会-常务委员
+* 广东省生物医学工程学会医疗器械分会-委员
