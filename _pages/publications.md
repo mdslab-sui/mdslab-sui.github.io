@@ -27,4 +27,4 @@ publication lists
 * Sui, J. & Wang, C. Machinability study of unidirectional CFRP laminates by slot milling The International Journal of Advanced Manufacturing Technology, Springer London, 2019, 100, 189-197
 * Sui, J. & Sugita, N. Optimization of drill bits for bone drilling procedure International Manufacturing Science and Engineering Conference, 2018, 51357, V001T05A001
 * Sui, J.; Kountanya, R. & Guo, C. Development of a mechanistic force model for CNC drilling process Simulation Procedia Manufacturing, Elsevier, 2016, 5, 787-797
-* <-- **B.** Second option with bold. -->
+* <!--- **B.** Second option with bold. --->
