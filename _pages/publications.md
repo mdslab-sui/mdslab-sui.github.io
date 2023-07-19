@@ -17,9 +17,6 @@ author_profile: true
 
 publication lists
 ======
-* B.S. in ME, Harbin Institute of Technology, 2008
-* M.S. in ME, Tsinghua University, 2011
-* Ph.D in ME, The University of Tokyo, 2014
 * Chen, W.; Sui, J. & Wang, C. Magnetically Actuated Capsule Robots: A Review IEEE Access, 2022, 10, 88398-88420
 * 隋建波; 郭凯杰; 罗嘉琪; 陈志桦; 刘志华; 王成勇 & 陈滨 全髋关节置换术髋臼铣削表面质量研究 机械工程学报, 2021, 57, 93-101
 * Sui, J.; Wang, C. & Sugita, N. Experimental study of temperature rise during bone drilling process Medical engineering & physics, Elsevier, 2020, 78, 64-73
