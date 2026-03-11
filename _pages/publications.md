@@ -47,7 +47,7 @@ My research focuses on the intersection of **Precision Manufacturing**, **Surgic
 --->     
 ### Journal Articles
 * **A magnetically actuated robotic capsule endoscope for in-situ visualization and microneedle-mediated targeted drug delivery in gastrointestinal tract.** W. Chen, **J. Sui**, et al. *Microsyst Nanoeng*, 2026,12,42. [Link](https://doi.org/10.1038/s41378-025-01145-5)
-* * **Design and Characterization of a Fiber Bragg Grating-Based Force Sensor for Tissue Palpation in Minimally Invasive Surgery.** H. Yang, **J. Sui**, S. Yang, L. Wang, and C. Wang. *IEEE Sensors Journal*, Dec 2025. [Link](https://ieeexplore.ieee.org)
+* **Design and Characterization of a Fiber Bragg Grating-Based Force Sensor for Tissue Palpation in Minimally Invasive Surgery.** H. Yang, **J. Sui**, S. Yang, L. Wang, and C. Wang. *IEEE Sensors Journal*, Dec 2025. [Link](https://ieeexplore.ieee.org)
 * **Modeling and experimental verification of chip evacuation forces in cortical bone drilling.** **J. Sui**, N. Sugita, M. Mitsuishi, et al. *Machining Science and Technology*, May 2025. [DOI: 10.1080/10910344.2025.2507005](https://doi.org)
 * **A review of wrist mechanism design and the application in gastrointestinal minimally invasive surgery of multi-degree-of-freedom surgical laparoscopic instruments.** **J. Sui**, et al. *Surgical Endoscopy*, Dec 2024. [DOI: 10.1007/s00464-024-11406-5](https://doi.org)
 * **Magnetically Actuated Capsule Robots: A Review.** W. Chen, **J. Sui**, and C. Wang. *IEEE Access*, 2022, 10, 88398-88420. [DOI: 10.1109/ACCESS.2022.3199651](https://doi.org)
@@ -63,5 +63,6 @@ My research focuses on the intersection of **Precision Manufacturing**, **Surgic
 ### Conference Proceedings & Research Highlights
 * **Optimization of drill bits for bone drilling procedure.** **J. Sui** and N. Sugita. *International Manufacturing Science and Engineering Conference*, 2018, 51357, V001T05A001. [DOI: 10.1115/MSEC2018-6362](https://doi.org)
 * **Development of a mechanistic force model for CNC drilling process Simulation.** **J. Sui**, R. Kountanya, and C. Guo. *Procedia Manufacturing*, Elsevier, 2016, 5, 787-797. [DOI: 10.1016/j.promfg.2016.08.064](https://doi.org)
+
 ---
 * <!--- **B.** Second option with bold. --->
